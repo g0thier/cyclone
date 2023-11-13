@@ -13,7 +13,7 @@ climatiques et hydrologiques. Ces phénomènes ont coûté la vie à 2,06 millio
 
 > Plus de 700 000 personnes ont péri, plus de 1,4 million ont été blessées et environ 23 millions sont devenues sans-abri. Au total, plus de 1,5 milliard d’êtres humains ont été victimes de catastrophes d’une manière ou d’une autre.
 
-### 1. Tempéte 
+### 1. Tempête 
 > Chaque année, environ 80 tempêtes tropicales ou cyclones se forment sur le globe
 
 
